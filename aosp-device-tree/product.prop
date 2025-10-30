@@ -1,0 +1,13 @@
+persist.wm.extensions.enabled=true
+remote_provisioning.hostname=remoteprovisioning.googleapis.com
+ro.com.google.acsa=true
+ro.com.google.clientidbase=android-weibu
+ro.com.google.gmsversion=14_202403
+ro.dalvik.vm.enable_uffd_gc=false
+ro.opa.eligible_device=true
+ro.product.ab_ota_partitions=boot,product,system,system_ext,vendor
+ro.product.cpu.pagesize.max=4096
+ro.setupwizard.enable_bypass=true
+ro.setupwizard.rotation_locked=true
+setupwizard.feature.checkin_timeout_enabled=false
+setupwizard.theme=glif_v3_light

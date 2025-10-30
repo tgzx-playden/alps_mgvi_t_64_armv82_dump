@@ -1,0 +1,20 @@
+## sys_mssi_t_64_cn_armv82-user 14 UP1A.231005.007 1741607923 release-keys
+- Manufacturer: alps
+- Platform: common
+- Codename: mgvi_t_64_armv82
+- Brand: alps
+- Flavor: sys_mssi_t_64_cn_armv82-user
+- Release Version: 14
+- Kernel Version: 5.10.209
+- Id: UP1A.231005.007
+- Incremental: 1741607923
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: alps/hal_mgvi_t_64_armv82/mgvi_t_64_armv82:14/UP1A.231005.007/1741607923:user/release-keys
+- OTA version: 
+- Branch: sys_mssi_t_64_cn_armv82-user-14-UP1A.231005.007-1741607923-release-keys
+- Repo: alps_mgvi_t_64_armv82_dump
